@@ -1,4 +1,4 @@
-1,5 star,5,9
+1,5 star,5,10
 2,milk,10,4
 3,krakjack,20,10
 4,almonds,100,9
